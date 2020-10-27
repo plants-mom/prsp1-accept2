@@ -414,26 +414,6 @@ var items = [
 
 [["filler-54", 54], "AcceptabilityJudgment", {s: "The western red panda lives in Nepal, Assam, Sikkim and Bhutan while the Styan's red panda lives in Southern China and Northern Burma, the travel's guide stated."}],
 
-[["filler-55", 55], "AcceptabilityJudgment", {s: "Bamboo sprouts are the edible parts of many bamboo species and they are used as vegetables in many   Asian dishes and broths, the cook explained."}],
-
-[["filler-56", 56], "AcceptabilityJudgment", {s: "We want to maintain proper ethics, proper guidelines, proper patient selection and, have advanced science that substantiates doing this in a safe manner, the interviewee declared."}],
-
-[["filler-57", 57], "AcceptabilityJudgment", {s: "We like everything to feel like a big family out here and we have all been together for a long time, Mary said."}],
-
-[["filler-58", 58], "AcceptabilityJudgment", {s: "We were impressed by the preparations the city is making for the Olympics and by the enthusiasm being generated for that worldwide event."}],
-
-[["filler-59", 59], "AcceptabilityJudgment", {s: "The researchers are currently working on a textbook for their course and have already provided a sample analysis of one of the famous problems, the leaflet highlighted."}],
-
-[["filler-60", 60], "AcceptabilityJudgment", {s: "Either the Lady successfully smuggled the ring through the border or she is cooperating with the enemy, the minister loudly supposed."}],
-
-[["filler-61", 61], "AcceptabilityJudgment", {s: "Either the family left on their own or Suzy showed them the door, as could be seen on the screen."}],
-
-[["filler-62", 62], "AcceptabilityJudgment", {s: "If the meteoritic material makes it to Earth's surface, then it is a meteorite, John strongly insisted."}],
-
-[["filler-63", 63], "AcceptabilityJudgment", {s: "If he has done what the police suspect he has done, then he is guilty of reproductive cloning, and that is a serious crime."}],
-
-[["filler-64", 64], "AcceptabilityJudgment", {s: "If the experience in a hotel is world-class, then I think people will absolutely come back, the manager vigorously explained."}],
-
 
 [["control-55", 55], "AcceptabilityJudgment", {s: "Alice has no neighbor and he hates her."}],
 
