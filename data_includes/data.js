@@ -402,13 +402,13 @@ var items = [
 
 [["filler-48", 48], "AcceptabilityJudgment", {s: "As far as I am aware, neither Qaddafi's translator nor anyone else protested."}],
 
-[["filler-49", 49], "AcceptabilityJudgment", {s: "If the sovereign is the principal, then the contractor retained by the contracting official is a subagent, as the handbook stated."}],
+[["filler-49", 49], "AcceptabilityJudgment", {s: "If the sovereign is the principal, then the contractor retained by the contracting official is a sub-agent, as the handbook stated."}],
 
 [["filler-50", 50], "AcceptabilityJudgment", {s: "It is not as though insurance companies do not know, or can not find out when a policyholder has passed on, Jamie stated with sarcasm."}],
 
 [["filler-51", 51], "AcceptabilityJudgment", {s: "Marianne wanted either to go to the gym to work it off or try for a drop-in appointment at her hairdresser's where she would be cosseted."}],
 
-[["filler-52", 52], "AcceptabilityJudgment", {s: "The red panda species has been classified as endagered and is being protected in all the countries it inhabits, as claimed by Wikipedia, the free encyclopedia."}],
+[["filler-52", 52], "AcceptabilityJudgment", {s: "The red panda species has been classified as endangered and is being protected in all the countries it inhabits, as claimed by Wikipedia, the free encyclopedia."}],
 
 [["filler-53", 53], "AcceptabilityJudgment", {s: "Indira Gandhi was an Indian prime minister and, interestingly, she kept red pandas, which were offered to her family as a gift, in a special tree house."}],
 
